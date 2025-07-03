@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tomy 👋
 
-[![X]([https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)])(https://x.com/TrumanDebank)]
+
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Defi/Web3** projects
@@ -13,3 +13,5 @@
 
 
 ⭐ **Want to collaborate? DM me!**
+
+
