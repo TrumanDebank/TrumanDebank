@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
-![Solana](https://img.shields.io/badge/-Solana-14F195?style=flat&logo=solana&logoColor=white)
+Building on : ![Solana](https://img.shields.io/badge/-Solana-14F195?style=flat&logo=solana&logoColor=white)
 
 
 ⭐ **Want to collaborate? DM me!**
